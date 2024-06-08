@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pallavi Mahadev Karemore</h1>
 <h3 align="center">A passionate backend developer from India</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahim160000" alt="fahim160000" /></a> </p>
 
 - 🌱 I’m currently learning **Python,Django,SQL**
 
